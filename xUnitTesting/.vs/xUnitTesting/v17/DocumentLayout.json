@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20shi\\Documents\\xUnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|c:\\users\\20shi\\documents\\xunittesting\\services\\pinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|solutionrelative:services\\pinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|c:\\users\\20shi\\documents\\xunittesting\\controller\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|solutionrelative:controller\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|c:\\users\\20shi\\documents\\xunittesting\\view\\atmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|solutionrelative:view\\atmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|c:\\users\\20shi\\documents\\xunittesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|c:\\users\\20shi\\documents\\xunittesting\\interfaces\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|solutionrelative:interfaces\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|c:\\users\\20shi\\documents\\xunittesting\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7369CAE9-0503-42E4-B6C2-1F49370849E6}|xUnitTesting.csproj|solutionrelative:services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBankService.cs",
+              "DocumentMoniker": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Interfaces\\IBankService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBankService.cs",
+              "ToolTip": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Interfaces\\IBankService.cs",
+              "RelativeToolTip": "Interfaces\\IBankService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:44:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Services\\BankService.cs",
+              "RelativeDocumentMoniker": "Services\\BankService.cs",
+              "ToolTip": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Services\\BankService.cs",
+              "RelativeToolTip": "Services\\BankService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:36:26.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:34:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinValidator.cs",
+              "DocumentMoniker": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Services\\PinValidator.cs",
+              "RelativeDocumentMoniker": "Services\\PinValidator.cs",
+              "ToolTip": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Services\\PinValidator.cs",
+              "RelativeToolTip": "Services\\PinValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:01:06.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Controller\\BankController.cs",
+              "RelativeDocumentMoniker": "Controller\\BankController.cs",
+              "ToolTip": "C:\\Users\\20shi\\Documents\\xUnitTesting\\Controller\\BankController.cs",
+              "RelativeToolTip": "Controller\\BankController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:59:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ATMView.cs",
+              "DocumentMoniker": "C:\\Users\\20shi\\Documents\\xUnitTesting\\View\\ATMView.cs",
+              "RelativeDocumentMoniker": "View\\ATMView.cs",
+              "ToolTip": "C:\\Users\\20shi\\Documents\\xUnitTesting\\View\\ATMView.cs",
+              "RelativeToolTip": "View\\ATMView.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:55:51.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
